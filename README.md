@@ -122,4 +122,5 @@ MySQL: For storing all user and transaction data.
 Java Swing: For building the user interface.
 
 Summary
+
 I built a full-featured desktop banking application that simulates ATM operations, complete with user registration, authentication, and all essential banking transactions. The project demonstrates my skills in Java, GUI development, database integration, and application design using NetBeans and MySQL.
